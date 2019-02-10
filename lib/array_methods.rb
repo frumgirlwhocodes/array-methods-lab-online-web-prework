@@ -5,7 +5,7 @@ end
 end
 
 def using_sort(array)
-  array.sort!
+ sorted_array= array.sort!
 
 end
 
